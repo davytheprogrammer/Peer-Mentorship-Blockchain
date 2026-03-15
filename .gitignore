@@ -45,3 +45,4 @@ lib/
 *.key
 *.pem
 private-key.txt
+.env
